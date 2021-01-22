@@ -30,4 +30,4 @@ function findBy(array, findFn){
   }
 }
 
-function findFn(array, (n) => n===c)
+
